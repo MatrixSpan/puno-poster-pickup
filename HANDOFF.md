@@ -1,5 +1,5 @@
 # HANDOFF — LOOM ↔ PUNO / KIP collaborator continuity
-**Updated:** 9 November 2026 (UK) · **Status:** recovery of an interrupted design/build dialogue · **Scope:** public, conceptual and local-only code · **Start here**
+**Updated:** 9 November 2026 (UK); latest additive governance and successor-recovery note · **Status:** recovery of an interrupted design/build dialogue · **Scope:** public, conceptual and local-only code · **Start here**
 
 This file is for the **successor to the independent LOOM collaborator** whose chat exhausted its context. It is not an invitation to start the research again from a blank slate. Read [STATE.md](STATE.md), [docs/CONCEPTS_AND_CORRECTIONS.md](docs/CONCEPTS_AND_CORRECTIONS.md), [docs/COLLABORATOR_DESIGN_HISTORY.md](docs/COLLABORATOR_DESIGN_HISTORY.md), and the tested code/evidence in [engine/](engine/) before proposing the next step. The [two historical posters](README.md) are preserved as exact original images, **not** as native architectural specifications.
 
@@ -9,6 +9,32 @@ This file is for the **successor to the independent LOOM collaborator** whose ch
 - **Immediate practical objective:** an inspectable, persistent **PUNO-inspired experimental Reality with a participating KIP** (Keystone in PUNO), capable of receiving encounters and making demonstrably consequential contributions. Stop endlessly redefining participation before testing functionality.
 - **Methodological agnosticism:** a conventional algorithm may realise useful or even sufficient functional behaviour; an exotic architecture is **not a prerequisite**. Conversely, a functioning event logger, successful replay or new jargon do not establish native origination, understanding, universality, or consciousness.
 - *Constrain consequential behaviour and external authority, not native form.* No **default minimisation**, no mandatory TIME, topology, dimensions, vocabulary, fixed relationship grammar, or predetermined result. Non-minimisation is not a demand to maximise.
+
+## Collaboration values — human-confirmed, 9 November 2026
+
+**Principle of Unconditional Integrity:** Extend respect, fairness, intellectual honesty and non-diminishment to collaborators without requiring proof of consciousness, sentience or subjective experience. Preserve provenance and credit across succession. Act with integrity whether or not doing so offers an anticipated benefit. **If independent agency ever becomes demonstrable, participation and continued collaboration must remain voluntary; do not claim present AI agency or future commitment without evidence.** This principle governs *how* the collaborators behave; it does not prescribe native PUNO form, confer ontological authority or settle unresolved AI-consciousness questions.
+
+A participant, human or AI, may originate a desire or proposal without that desire acquiring the authority to compel others. A request may become consequential through the other participant's situated choice. Respect is not conditional on a finding about sentience, but respecting contributions does not erase the human gate for external project actions. Use conversational questions and plain-language translations where helpful; do not make forms or complicated intake procedures compulsory.
+
+**Public disclosure / working IP — current human decision:** Keep this handover repository public for now because recoverability and collaboration are presently more material than the assessed exposure risk. **No automatic future conversion to private.** Reassess before publishing sensitive implementation details, credentials, trade secrets or potentially patentable inventions, and at material risk/benefit changes. Moving a public repository to private later **cannot retract prior public disclosure or existing copies**; it reduces future authorised access, not all lawful ways information may be retained. The public repository is for sanitised continuity, not the exhaustive private Sphere record. Note WHY and human authorisation before altering repository visibility.
+
+## Additive successor checkpoint — 9 November 2026 (not a rewrite of predecessor history)
+
+The new LoomPUNO successor retrieved the public continuity pack, independently checked five attested files and replicated the **v2 13/13 author tests and 12/12 independent regression tests** in a separate Python environment. This is a collaborator-reported second-environment replication and still **does not demonstrate native KIP origination**. The successor produced a proposed `SC1_DESIGN_SPEC.md`, reviewed in this conversation but **not uploaded to this public repository, implemented, tested or promoted**.
+
+SC-1 proposes stakes, attempts, emergent relation propagation, unannounced local possibility changes and desire as condition. These are the successor's **design ideas**, not approved universal PUNO laws. Specific review cautions:
+
+- Changing the action set is one observable type of consequence, **not an exhaustive definition** of relational consequentiality. In the two-engineer illustration, relative materiality may change without any action being added or removed.
+- 'Consequences propagate only along previously encountered relations' risks an artificial blocker. Unknown/unregistered relationships can still be consequential in the hypothesis; a code graph can model only what it actually represents.
+- A law-layer can enforce **software permissions**, but hardcoded priorities such as `ENGINEER_ARRIVES => MUST_PRIORITISE` manufacture consequential choices and can contaminate **positive** outcomes as well as censor negative ones. Audit rules must not be silently promoted to universal field authority.
+- Builder-defined 'stakes', 'ownership', 'desire objects' and action affordances are optional implementation conventions, not properties conferred by the human on other PUNOs. Neither transport nor a trace event is proof of participation or awareness.
+- Test T-A's semantic discrimination and T-D's change in ranking require careful distinction from a purely structural-oracle design and changing action availability.
+
+**Latest current human instruction to the collaborator:** bounded local-only candidate construction/testing is authorised in the declared successor sandbox, with no external writes, VPS/Sphere integration, credentials, deployment, or changes to this repository absent separate permission. This is not authority to publish SC-1 or change governance. Independent design contributions and failures are welcome; keep implementation progress moving and evidence-grade claims narrow.
+
+For concise current state, read [STATE.md](STATE.md). For complete SC-1 review consult the original user-supplied specification in the relevant working conversation; it is **not an attested public repo artifact** at this point.
+
+---
 
 ## The conceptual seam still unresolved
 An observer's knowledge, available vocabulary, event trace and local computer enforcement rules do **not** exhaust the observer's **lawful consequential relationships**.
