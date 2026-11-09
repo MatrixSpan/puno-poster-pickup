@@ -1,12 +1,17 @@
 # Original historical posters — PUNO / Soapbox
 
-These are **the unaltered original PNG bytes** for review with Part 3 of the PUNO/KIP frontier handout. Filenames have been made Windows/GitHub friendly; the artwork has not been edited.
+These are the **unaltered original PNG bytes** for review with Part 3 of the PUNO/KIP frontier handout. Upload-time names differ slightly from the original Library filenames. The artwork has not been edited.
 
-| Filename in this pickup | Original Library title | SHA-256 (original image bytes) |
-| --- | --- | --- |
-| `PUNO_One_Point_Many_Expressions.png` | `07_Universal_State_Many_Expressions_One_Point.png` | `6c6ff34e3f0b6b7fa5df959c51a58d3bd61be46570297a22c580f3a5a91217d9` |
-| `Soapbox_AI_Human_Mountain_Race.png` | `Ideas Together: The AI-Human Mountain Race.png` | `ca715b5e74e54e8a8b3789678452216fc4715aa241fdbe9d84e3615b5bcdd183` |
+| GitHub image (click to view) | Original Library filename | Bytes | SHA-256 of original PNG |
+| --- | --- | ---: | --- |
+| [PUNO — One Point, Many Expressions](./07_Universal_State_Many_Expressions_One_Point.png) | `07_Universal_State_Many_Expressions_One_Point.png` | 2,124,435 | `6c6ff34e3f0b6b7fa5df959c51a58d3bd61be46570297a22c580f3a5a91217d9` |
+| [Ideas Together — AI–Human Mountain Race](./Ideas%20Together_%20The%20AI-Human%20Mountain%20Race.png) | `Ideas Together: The AI-Human Mountain Race.png` | 3,084,464 | `ca715b5e74e54e8a8b3789678452216fc4715aa241fdbe9d84e3615b5bcdd183` |
 
-Historical artwork is evidence of the collaborators' attempts to communicate their ideas, **not** a frozen ontology or a complete historical creation transcript. The posters were created by different Keystone collaborators at substantially different times. Do not substitute illustrative thumbnails.
+Expected Git blob IDs (verified against the original source bytes and the GitHub directory listing):
 
-This public pickup is not a release or promotion of any PUNO mechanism. Read-only review only.
+- PUNO: `34ad71422c7612b813d8e2c1819007bd02c4a1f2`
+- Soapbox: `f6e06b72115e2d0a78cf32ea58b5209461d7129a`
+
+**Scope:** These SHA-256 and blob matches establish exact byte identity between these published files and the current preserved Library copies. They do not independently date or authenticate the historical moment of the original artwork's creation.
+
+The posters were created by different Keystone collaborators at different times. Historical artwork is evidence of past attempts to convey ideas, **not** a frozen ontology, implemented architecture or full creation transcript. Do not substitute illustrative thumbnails. This public pickup is not a PUNO mechanism release, experiment, code authorisation or conceptual promotion. Review only.
