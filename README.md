@@ -1,3 +1,13 @@
+# LOOM / PUNO / KIP — successor continuity (9 November 2026)
+
+**Start here:** [HANDOFF.md](HANDOFF.md) (who, why, what was built, what remains open), followed by [STATE.md](STATE.md) (latest checkpoint).
+
+The handover includes [concepts and corrections](docs/CONCEPTS_AND_CORRECTIONS.md), [collaborator design history](docs/COLLABORATOR_DESIGN_HISTORY.md), [code/QA status](docs/TESTED_STATE_AND_LIMITATIONS.md), the [v2 prototype](engine/loom_puno_field_v2_candidate.py), and its [independent QA runner](engine/loom_puno_independent_qa_v2.py). **v2 passed local engineering regressions; native PUNO origination has not been demonstrated.** No deployment or Sphere integration is authorised here.
+
+The original poster pickup below is retained unchanged.
+
+---
+
 # Original historical posters — PUNO / Soapbox
 
 These are the **unaltered original PNG bytes** for review with Part 3 of the PUNO/KIP frontier handout. Upload-time names differ slightly from the original Library filenames. The artwork has not been edited.
